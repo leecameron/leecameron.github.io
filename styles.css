@@ -1,10 +1,11 @@
 /* CSS */
 body {
-  Font-family: "Roboto Flex", sans-serif;
-  font-size: 1em;
+  
+  font-size: 10px;
 }
 
 h1 {
+  font-family: Oswald;
   font-size: 3em;
-  font-weight: 1000;
+  font-weight: 800;
 }
