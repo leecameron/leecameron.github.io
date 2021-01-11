@@ -1,4 +1,4 @@
-/* CSS */
+/* General Styles */
 body {
   
   font-size: 10px;
@@ -21,3 +21,21 @@ ul, p {
 li, p {
   line-height: 1.5;
 }
+
+/* Header Nav */
+
+ul {
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
