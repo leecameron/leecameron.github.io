@@ -8,6 +8,7 @@ h1 {
   font-family: Oswald;
   font-size: 3rem;
   font-weight: 700;
+  color: red;
 }
 
 h2 {
@@ -36,6 +37,7 @@ a {
   outline: none;
   text-decoration: none;
   display: inline-block;
+  color: red;
 }
 
 
