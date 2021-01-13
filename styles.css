@@ -100,10 +100,14 @@ section {
 footer {
   border-top: 1px solid #eeeeee;
   margin-top: 40px;
-  font-size: 1rem;
-  /* line-height: 2;
-  color: #484848;
+  line-height: 2;
+  /* color: #484848;
   padding: 40px; */
+}
+
+footer p {
+  color: #484848;
+  font-size: 1rem;
 }
 
 
