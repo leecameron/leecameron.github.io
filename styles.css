@@ -28,6 +28,30 @@ li, p {
   line-height: 1.5;
 }
 
+/* Links */
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: #b71c1c1;
+}
+
+a:visited {
+
+}
+
+a:focused, a:hover {
+  border-bottom: 1px solid;
+}
+
+a:active {
+
+}
+
 /* Header Nav */
 
 nav ul {
