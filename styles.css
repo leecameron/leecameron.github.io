@@ -5,10 +5,6 @@ body {
   font-size: 10px;
 }
 
-a {
-  color: #b71c1c1;
-}
-
 h1 {
   color: #b71c1c;
   font-family: Oswald;
@@ -87,17 +83,12 @@ nav a {
 
 main {
   padding-left: 40px;
-}
-
-section {
   width: 800px;
 }
 
-/* Sections */
-
-.connect {
-
-}
+/* section {
+  width: 800px;
+} */
 
 /* Footer */
 
