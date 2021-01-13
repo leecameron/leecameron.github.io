@@ -5,6 +5,10 @@ body {
   font-size: 10px;
 }
 
+a {
+  color: #b71c1c1;
+}
+
 h1 {
   color: #b71c1c;
   font-family: Oswald;
