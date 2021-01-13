@@ -97,7 +97,8 @@ section {
 /* Footer */
 
 footer {
-  line-height: 3;
+  font-size: 1rem;
+  line-height: 2;
   border-top: 1px solid #eeeeee;
   color: #484848;
   padding: 40px;
