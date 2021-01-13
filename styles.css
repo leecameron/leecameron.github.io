@@ -55,8 +55,8 @@ a:active {
 /* Header Nav */
 
 nav ul {
-  border-top: 1px solid #484848;
-  border-bottom: 1px solid #484848;
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
   line-height: 3;
   padding: 0;
 }
