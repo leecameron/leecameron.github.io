@@ -1,6 +1,7 @@
 /* General Styles */
 body {
   width: 600px;
+  padding-left: 40px;
   font-family: Lato;
   font-weight: 400;
   font-size: 10px;
