@@ -37,13 +37,14 @@ li, p {
 /* Links */
 
 a {
+  color: #b71c1c1;
   outline: none;
   text-decoration: none;
   padding: 2px 1px 0;
 }
 
 a:link {
-  color: #b71c1c1;
+  
 }
 
 a:visited {
