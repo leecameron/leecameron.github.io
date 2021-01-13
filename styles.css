@@ -34,6 +34,10 @@ li, p {
   line-height: 1.5;
 }
 
+footer p {
+  font-size: 1rem;
+}
+
 /* Links */
 
 a {
