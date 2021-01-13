@@ -104,6 +104,12 @@ footer p {
   padding-left: 40px;
 }
 
+/* Forms */
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
+
 
 
 
