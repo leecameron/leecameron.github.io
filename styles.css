@@ -42,9 +42,9 @@ a {
   padding: 2px 1px 0;
 }
 
-/* a:link {
+a:link {
   color: #b71c1c;
-} */
+} 
 
 a:visited {
   color: #484848;
