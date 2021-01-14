@@ -44,7 +44,7 @@ a {
 }
 
 a:link {
-  color: #b71c1c1;
+  color: #b71c1c;
 }
 
 a:visited {
@@ -94,7 +94,7 @@ nav a {
   outline: none;
   text-decoration: none;
   display: inline-block;
-  color: #484848;
+  color: #b71c1c;
 }
 
 /* Page Settings */
