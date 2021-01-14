@@ -41,11 +41,11 @@ a {
   text-decoration: none;
   padding: 2px 1px 0;
 }
-
+/*
 a:link {
   color: #b71c1c;
 } 
-
+*/
 a:visited {
   color: #484848;
 }
