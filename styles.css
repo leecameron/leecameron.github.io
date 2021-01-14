@@ -61,6 +61,24 @@ a:active {
 
 /* Header */
 
+h1 a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+h1 a:link {
+  color: #b71c1c1;
+}
+
+h1 a:visited {}
+
+h1 a:focused {}
+
+h1 a:hover {}
+
+h1 a:active {}
+
 nav ul {
   border-top: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
